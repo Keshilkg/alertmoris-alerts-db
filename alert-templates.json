@@ -1,0 +1,61 @@
+{
+  "templates": [
+    {
+      "id": "cyclone",
+      "name": "Cyclone Warning",
+      "icon": "🌀",
+      "default_level": "warning",
+      "default_severity": "high",
+      "default_instructions": [
+        "Stay indoors and away from windows",
+        "Secure loose outdoor items",
+        "Prepare emergency kit",
+        "Monitor official updates",
+        "Avoid beach areas"
+      ],
+      "default_source": "Mauritius Meteorological Services"
+    },
+    {
+      "id": "flood",
+      "name": "Flood Alert",
+      "icon": "🌊",
+      "default_level": "alert",
+      "default_severity": "medium",
+      "default_instructions": [
+        "Move to higher ground",
+        "Avoid flooded areas",
+        "Do not walk or drive through flood waters",
+        "Follow evacuation orders"
+      ],
+      "default_source": "National Disaster Risk Reduction Centre"
+    },
+    {
+      "id": "tsunami",
+      "name": "Tsunami Warning",
+      "icon": "🌊",
+      "default_level": "warning",
+      "default_severity": "high",
+      "default_instructions": [
+        "Move to higher ground immediately",
+        "Follow evacuation routes",
+        "Stay away from coastal areas",
+        "Do not return until all-clear"
+      ],
+      "default_source": "Mauritius Meteorological Services"
+    },
+    {
+      "id": "heat",
+      "name": "Heat Wave",
+      "icon": "🌡️",
+      "default_level": "alert",
+      "default_severity": "medium",
+      "default_instructions": [
+        "Drink plenty of water",
+        "Avoid outdoor activities during peak hours",
+        "Wear light clothing",
+        "Check on vulnerable individuals"
+      ],
+      "default_source": "Mauritius Meteorological Services"
+    }
+  ]
+}
