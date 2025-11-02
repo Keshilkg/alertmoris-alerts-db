@@ -1,25 +1,6 @@
 {
   "alerts": [
-    {
-      "id": 1762101559884,
-      "type": "cyclone",
-      "level": "alert",
-      "title": "Cyclone Warning Class 1",
-      "description": "Bourer",
-      "time": "Just now",
-      "area": "Nothern Part",
-      "severity": "low",
-      "active": true,
-      "instructions": [
-        "Pa srti dehor",
-        "Gt tiktok pu ggn pli bku info",
-        "Plak fess dan lakaz",
-        "Pna lecole ek cour"
-      ],
-      "source": "Mauritius Meteorological Services",
-      "created_at": "2025-11-02T17:16:33.696Z",
-      "updated_at": "2025-11-02T17:16:33.696Z"
-    }
+    
   ],
   "last_updated": "2024-01-15T00:00:00Z"
 }
