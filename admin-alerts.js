@@ -1,6 +1,6 @@
 // admin-alerts.js
 // Configuration - UPDATE THESE WITH YOUR ACTUAL URLS
-const GITHUB_BASE_URL = 'https://YOUR_USERNAME.github.io/alertmoris-alerts-db';
+const GITHUB_BASE_URL = 'https://keshilkg.github.io/alertmoris-alerts-db';
 const ACTIVE_ALERTS_URL = `${GITHUB_BASE_URL}/active-alerts.json`;
 const PAST_ALERTS_URL = `${GITHUB_BASE_URL}/past-alerts.json`;
 const TEMPLATES_URL = `${GITHUB_BASE_URL}/alert-templates.json`;
