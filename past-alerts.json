@@ -1,69 +1,7 @@
 {
   "alerts": [
     
-    {
-      "id": 1762101559884,
-      "type": "other",
-      "level": "info",
-      "title": "Hot Weather",
-      "description": "fgekjrbgwjrngjwn",
-      "time": "Just now",
-      "area": "La France",
-      "severity": "medium",
-      "active": true,
-      "instructions": [
-        "Stay indoors and away from windows",
-        "Secure loose outdoor items",
-        "Prepare emergency kit",
-        "Monitor official updates",
-        "Avoid beach areas"
-      ],
-      "source": "Mauritius Meteorological Services",
-      "created_at": "2025-11-02T16:39:19.884Z",
-      "updated_at": "2025-11-02T16:39:19.884Z"
-    },
-
-    {
-      "id": 1,
-      "type": "cyclone",
-      "level": "warning",
-      "title": "Cyclone Warning Class II",
-      "description": "Tropical cyclone approaching Mauritius. Heavy winds and rainfall expected in the next 24 hours. Stay indoors and secure property.",
-      "time": "2 days ago",
-      "area": "Entire Mauritius",
-      "severity": "high",
-      "active": false,
-      "instructions": [
-        "Stay indoors and away from windows",
-        "Secure loose outdoor items",
-        "Prepare emergency kit",
-        "Monitor official updates",
-        "Avoid beach areas"
-      ],
-      "source": "Mauritius Meteorological Services",
-      "created_at": "2024-01-13T10:30:00Z",
-      "updated_at": "2024-01-13T10:30:00Z"
-    },
-    {
-      "id": 2,
-      "type": "flood",
-      "level": "alert",
-      "title": "Coastal Flood Alert",
-      "description": "High tides and storm surge expected in coastal areas. Avoid beach areas and low-lying regions.",
-      "time": "1 week ago",
-      "area": "Coastal Regions",
-      "severity": "medium",
-      "active": false,
-      "instructions": [
-        "Move to higher ground if in coastal area",
-        "Avoid beach and waterfront areas",
-        "Secure boats and marine equipment",
-        "Follow evacuation orders if issued"
-      ],
-      "source": "National Disaster Risk Reduction Centre",
-      "created_at": "2024-01-08T14:20:00Z",
-      "updated_at": "2024-01-08T14:20:00Z"
-    }
+    
   ],
   "last_updated": "2024-01-15T00:00:00Z"
 }
