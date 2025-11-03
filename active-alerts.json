@@ -1,6 +1,26 @@
 {
   "alerts": [
-    
+    {
+  "id": 1762157534953,
+  "type": "cyclone",
+  "level": "warning",
+  "title": "Cyclone Warning Class II",
+  "description": "ghsbhgwlhblsDBVSjhbvsjHDBVKSjbvsDBVJSBVKHDSB",
+  "time": "Just now",
+  "area": "Northern",
+  "severity": "medium",
+  "active": true,
+  "instructions": [
+    "Stay indoors and away from windows",
+    "Secure loose outdoor items",
+    "Prepare emergency kit",
+    "Monitor official updates",
+    "Avoid beach areas"
+  ],
+  "source": "Mauritius Meteorological Services",
+  "created_at": "2025-11-03T08:12:14.953Z",
+  "updated_at": "2025-11-03T08:12:14.953Z"
+}
   ],
   "last_updated": "2024-01-15T00:00:00Z"
 }
