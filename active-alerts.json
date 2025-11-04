@@ -1,6 +1,26 @@
 {
   "alerts": [
-    
+    {
+      "id": 1762268583295,
+      "type": "cyclone",
+      "level": "warning",
+      "title": "Cyclone Warning Class II",
+      "description": "Cyclone Belal is a powerful tropical storm that formed over the Indian Ocean, bringing intense winds, heavy rainfall, and rough seas. As it approached land, it caused widespread flooding, power outages, and significant disruptions, reminding everyone of the importance of early preparedness and safety measures during such extreme weather events.",
+      "time": "Just now",
+      "area": "Northern",
+      "severity": "high",
+      "active": true,
+      "instructions": [
+        "Stay indoors and away from windows",
+        "Secure loose outdoor items",
+        "Prepare emergency kit",
+        "Monitor official updates",
+        "Avoid beach areas"
+      ],
+      "source": "Mauritius Meteorological Services",
+      "created_at": "2025-11-04T15:03:03.295Z",
+      "updated_at": "2025-11-04T15:03:03.295Z"
+    }
   ],
-  "last_updated": "2024-01-15T00:00:00Z"
+  "last_updated": "2025-11-04T15:03:03.295Z"
 }
